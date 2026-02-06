@@ -77,7 +77,7 @@ function Subtrair(){
 };
 
 function Dividir(){
-    const verificaV1
+    
 }
 
 function Limpar(){
