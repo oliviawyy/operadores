@@ -11,7 +11,7 @@ function somar() {
 
     // resultado = div
     document.getElementById('rseultado').style.display = 'flex';
-    document.getElementById('resultado').textContent = O resultado é ${ v1 + v2 }.;
+    document.getElementById('resultado').textContent = `O resultado é ${v1 + v2}.`;
 };
 
     function subtrair() {
